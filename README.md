@@ -1,263 +1,119 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+rankochandamem;Developer+%7C+Builder+%7C+Creator;I+build+web+apps+and+developer+tools;Welcome+to+my+GitHub" alt="Typing animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=140&section=header&text=rankochandamem&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Developer%20%C2%B7%20Builder%20%C2%B7%20Creator&descSize=16&descAlignY=62&animation=fadeIn" width="100%" alt="rankochandamem banner"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+build+web+apps+and+developer+tools;Learning+by+shipping+real+projects;Welcome+to+my+GitHub" alt="Typing animation" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=120&section=header&animation=fadeIn" width="100%"/>
+`React Developer` · `Web Builder` · `Experimenter`
+
+<sub>I build interactive applications, developer tools, learning platforms, and experimental software.</sub>
 
 </div>
 
 ---
 
-<div align="center">
-
-# rankochandamem
-
-`Developer` · `Web Builder` · `React Developer` · `Experimenter`
-
-I build interactive applications, developer tools, learning platforms, and experimental software.
-
-</div>
-
----
-
-## CURRENTLY BUILDING
-
-<div align="center">
+## 🚀 Currently Building
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%" align="center">
+### 🎮 [ReactQuest](https://github.com/rankochandamem/reactquest)
 
-### REACTQUEST
+An interactive React learning platform that mixes coding lessons, challenges, quizzes, progression, and game mechanics.
 
-Interactive React learning platform combining coding lessons, challenges, quizzes, progression, and game mechanics.
-
-**React · JavaScript · Vite**
-
-</td>
-
-<td width="50%" align="center">
-
-### DEVELOPER TOOLS
-
-Building utilities and experiments focused on making development workflows faster and easier.
-
-**JavaScript · Web APIs · Cloudflare**
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF)
 
 </td>
+<td width="50%" valign="top">
 
+### 🛠️ Developer Tools
+
+Utilities and experiments focused on making development workflows faster and easier.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Web APIs](https://img.shields.io/badge/Web%20APIs-0D1117?style=flat-square&logo=mdnwebdocs&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0D1117?style=flat-square&logo=cloudflare&logoColor=F38020)
+
+</td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-## FEATURED PROJECT
+## 📌 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/rankochandamem/rankochandamem">
+<a href="https://github.com/rankochandamem/reactquest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rankochandamem&repo=reactquest&theme=github_dark&hide_border=true" width="48%" alt="reactquest repo card"/></a>
+<a href="https://github.com/rankochandamem/MediaDrop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rankochandamem&repo=MediaDrop&theme=github_dark&hide_border=true" width="48%" alt="MediaDrop repo card"/></a>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rankochandamem&repo=rankochandamem&theme=github_dark&hide_border=true" width="48%"/>
+<a href="https://github.com/rankochandamem/Video-DL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rankochandamem&repo=Video-DL&theme=github_dark&hide_border=true" width="48%" alt="Video-DL repo card"/></a>
+<a href="https://github.com/rankochandamem/DEVDEPLOYGUIDE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rankochandamem&repo=DEVDEPLOYGUIDE&theme=github_dark&hide_border=true" width="48%" alt="DEVDEPLOYGUIDE repo card"/></a>
 
-</a>
+<a href="https://github.com/rankochandamem/marc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rankochandamem&repo=marc&theme=github_dark&hide_border=true" width="48%" alt="marc repo card"/></a>
 
-<a href="https://github.com/rankochandamem/marc">
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rankochandamem&repo=marc&theme=github_dark&hide_border=true" width="48%"/>
-
-</a>
-
-<br/>
-
-<a href="https://github.com/rankochandamem/MediaDrop">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rankochandamem&repo=MediaDrop&theme=github_dark&hide_border=true" width="48%"/>
-
-</a>
-
-<a href="https://github.com/rankochandamem/Video-DL">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rankochandamem&repo=Video-DL&theme=github_dark&hide_border=true" width="48%"/>
-
-</a>
-
-<br/>
-
-<a href="https://github.com/rankochandamem/DEVDEPLOYGUIDE">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rankochandamem&repo=DEVDEPLOYGUIDE&theme=github_dark&hide_border=true" width="48%"/>
-
-</a>
-
-<a href="https://github.com/rankochandamem/reactquest">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rankochandamem&repo=reactquest&theme=github_dark&hide_border=true" width="48%"/>
-
-</a>
-
-<br/>
-
-<a href="https://github.com/rankochandamem?tab=repositories">
-
-<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
-
-</a>
+<a href="https://github.com/rankochandamem?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="View all repositories"/></a>
 
 </div>
 
 ---
 
-## TECHNOLOGY
+## 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,git,github,cloudflare,vscode&perline=10" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" />
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020" />
-<img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,git,github,cloudflare,vscode&perline=10" alt="Tech stack icons" />
 
 </div>
 
 ---
 
-## WHAT I BUILD
+## 💡 What I Build
+
+| 🌐 Web Apps | ⚛️ React | 🛠️ Tools | 📴 Offline-first |
+|:---:|:---:|:---:|:---:|
+| Modern, responsive web applications and interfaces | Interactive apps and learning experiences | Developer utilities and productivity experiments | Apps designed to work with limited connectivity |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<table>
-<tr>
+<img src="https://github-readme-stats.vercel.app/api?username=rankochandamem&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" height="170" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rankochandamem&layout=compact&hide_border=true&theme=github_dark" height="170" alt="Top languages"/>
 
-<td align="center" width="25%">
+<img src="https://streak-stats.demolab.com?user=rankochandamem&theme=github-dark-blue&hide_border=true" alt="Contribution streak" />
 
-### WEB APPS
-
-Modern responsive web applications and interfaces.
-
-</td>
-
-<td align="center" width="25%">
-
-### REACT
-
-Interactive React applications and learning experiences.
-
-</td>
-
-<td align="center" width="25%">
-
-### TOOLS
-
-Developer utilities and productivity experiments.
-
-</td>
-
-<td align="center" width="25%">
-
-### OFFLINE
-
-Applications designed to work with limited connectivity.
-
-</td>
-
-</tr>
-</table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rankochandamem&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
 
 </div>
 
 ---
 
-## GITHUB STATS
+## 🤝 Connect
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rankochandamem&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" height="180"/>
+<a href="https://github.com/rankochandamem"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/></a>
+<!-- Add more links if you like, e.g.:
+<a href="https://your-site.com"><img src="https://img.shields.io/badge/WEBSITE-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Website"/></a>
+<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+-->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rankochandamem&layout=compact&hide_border=true&theme=github_dark" height="180"/>
+<br/><br/>
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=rankochandamem&style=flat-square&color=161b22&label=PROFILE+VIEWS" alt="Profile views" />
 
----
+### Keep building. 🚀
 
-## CONTRIBUTION STREAK
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=rankochandamem&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rankochandamem&theme=github-compact&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
-## PROFILE
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=rankochandamem&style=for-the-badge&color=161b22&label=PROFILE+VIEWS" />
-
-</div>
-
----
-
-## FIND ME
-
-<div align="center">
-
-<a href="https://github.com/rankochandamem">
-
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-
-</a>
-
-<a href="https://github.com/rankochandamem?tab=repositories">
-
-<img src="https://img.shields.io/badge/REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
-
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### KEEP BUILDING.
-
-`rankochandamem`
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161b22,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161b22,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%" alt=""/>
 
 </div>

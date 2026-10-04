@@ -1,56 +1,60 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=170&section=header&text=rankochandamem&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Developer%20%C2%B7%20Builder%20%C2%B7%20Creator&descSize=17&descAlignY=60&animation=twinkling" width="100%" alt="rankochandamem banner"/>
+<img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/matrix.svg" width="100%" alt="rankochandamem - Developer, Builder, Creator"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=I+build+web+apps+and+developer+tools;Currently+shipping+ReactQuest;Learning+by+building+real+projects;Offline-first+is+my+favorite+constraint;Welcome+to+my+GitHub" alt="Typing animation" />
-
-<br/>
-
-`React Developer` · `Web Builder` · `Tool Maker` · `Experimenter`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&width=720&lines=%3E+whoami;rankochandamem+%2F%2F+developer+%7C+builder+%7C+creator;%3E+cat+mission.txt;build+fast.+ship+early.+learn+always.;%3E+.%2Fstart+--mode%3Doffline-first;%5B+OK+%5D+system+online" alt="Typing animation" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Open%20to-Collaboration-238636?style=for-the-badge&logo=github&logoColor=white" alt="Open to collaboration"/>
-<img src="https://img.shields.io/badge/Focus-React%20%26%20Tooling-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Focus: React and tooling"/>
-<img src="https://img.shields.io/badge/Status-Building-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Status: building"/>
+<img src="https://img.shields.io/badge/ACCESS-GRANTED-000000?style=for-the-badge&labelColor=0d1117&color=00ff41&logo=gnubash&logoColor=00ff41" alt="Access granted"/>
+<img src="https://img.shields.io/badge/STACK-REACT%20%2F%20VITE-000000?style=for-the-badge&labelColor=0d1117&color=00ff41&logo=react&logoColor=00ff41" alt="Stack: React and Vite"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-000000?style=for-the-badge&labelColor=0d1117&color=00ff41&logo=vite&logoColor=00ff41" alt="Status: building"/>
+<img src="https://img.shields.io/badge/MODE-OFFLINE--FIRST-000000?style=for-the-badge&labelColor=0d1117&color=00ff41&logo=cloudflare&logoColor=00ff41" alt="Mode: offline-first"/>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/terminal.svg" width="720" alt="Animated terminal introducing rankochandamem"/>
+<img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/boot.svg" width="760" alt="Animated boot sequence for rankochandamem"/>
 
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider-hacker.svg" width="100%" alt=""/></div>
 
-## About Me
+## > cat about.txt
 
-I'm a self-driven developer who learns by building. Most of what I make starts as a small experiment, a problem I ran into, or a tool I wished existed, and then grows into a real project.
+```text
+USER        rankochandamem
+ROLE        developer / builder / creator
+LOCATION    the terminal
+MISSION     ship small, useful software and learn from every build
+PHILOSOPHY  fast to load, simple to use, useful on a bad connection
+```
 
-I care about software that is **fast to load, simple to use, and still useful when the connection is bad**. That is why a lot of my work leans toward lightweight front ends, small dependencies, and offline-friendly design.
+I'm a self-driven developer who learns by building. Most of what I make starts as a small experiment, a problem I ran into, or a tool I wished existed, and then grows into a real project. A lot of my work leans toward lightweight front ends, small dependencies, and offline-friendly design.
 
-| | |
+| Field | Value |
 |:--|:--|
 | **What I do** | Build web apps, learning platforms, and developer utilities |
 | **Main tools** | React, JavaScript, Vite, Node.js, Cloudflare |
-| **What drives me** | Turning ideas into working software, quickly, and improving it in public |
 | **Best at** | Prototyping fast, then refining the experience |
 | **Looking for** | Collaborators, feedback, and open-source projects to learn from |
 
 <details>
-<summary><b>More about how I think about projects</b></summary>
+<summary><b>> man how-i-think</b></summary>
 
 <br/>
 
-- I start with the smallest version that works, then grow it.
-- I prefer readable code and fewer dependencies over clever tricks.
-- I test on slow networks and small screens, not just my own setup.
-- Every project is also a lesson, so I document what I learn.
+```text
+01  Start with the smallest version that works, then grow it.
+02  Prefer readable code and fewer dependencies over clever tricks.
+03  Test on slow networks and small screens, not just my own setup.
+04  Every project is a lesson, so document what you learn.
+```
 
 </details>
 
-<div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider-hacker.svg" width="100%" alt=""/></div>
 
-## Currently Building
+## > ./currently_building
 
 <table>
 <tr>
@@ -58,180 +62,160 @@ I care about software that is **fast to load, simple to use, and still useful wh
 
 ### [ReactQuest](https://github.com/rankochandamem/reactquest)
 
-An interactive React learning platform that turns studying into a game. Instead of reading docs, learners write real code, pass challenges, and level up.
+An interactive React learning platform that turns studying into a game. Learners write real code, pass challenges, and level up.
 
-**Core ideas**
+```text
+[x] hands-on coding lessons
+[x] challenges that check your solution
+[x] quizzes to lock in concepts
+[ ] progression, levels, rewards
+[ ] game mechanics that keep people coming back
+```
 
-- Hands-on coding lessons
-- Challenges that check your solution
-- Quizzes to lock in concepts
-- Progression, levels, and rewards
-- Game mechanics that keep learners coming back
-
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00ff41)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00ff41)
+![Vite](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=00ff41)
 
 </td>
 <td width="50%" valign="top">
 
 ### Developer Tools
 
-A growing set of utilities and experiments that remove small frustrations from the daily development workflow.
+Utilities and experiments that remove small frustrations from the daily development workflow.
 
-**Core ideas**
+```text
+[x] small, single-purpose tools
+[x] fast to open, easy to understand
+[x] built on standard Web APIs
+[ ] deployed on Cloudflare for speed
+[ ] open source so others can adapt them
+```
 
-- Small, single-purpose tools
-- Fast to open, easy to understand
-- Built on standard Web APIs
-- Deployed on Cloudflare for speed
-- Open source so others can adapt them
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Web APIs](https://img.shields.io/badge/Web%20APIs-0D1117?style=flat-square&logo=mdnwebdocs&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0D1117?style=flat-square&logo=cloudflare&logoColor=F38020)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00ff41)
+![Web APIs](https://img.shields.io/badge/Web%20APIs-000000?style=flat-square&logo=mdnwebdocs&logoColor=00ff41)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-000000?style=flat-square&logo=cloudflare&logoColor=00ff41)
 
 </td>
 </tr>
 </table>
 
-<div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider.svg" width="100%" alt=""/></div>
+<sub>Tick the boxes to match your real progress.</sub>
 
-## Projects
+<div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider-hacker.svg" width="100%" alt=""/></div>
 
-| Project | What it does | Stack |
-|:--|:--|:--|
-| [reactquest](https://github.com/rankochandamem/reactquest) | Gamified React learning platform with lessons, challenges, and quizzes | React, Vite |
-| [MediaDrop](https://github.com/rankochandamem/MediaDrop) | Media download and handling tool | JavaScript |
-| [Video-DL](https://github.com/rankochandamem/Video-DL) | Video downloader utility | JavaScript |
-| [DEVDEPLOYGUIDE](https://github.com/rankochandamem/DEVDEPLOYGUIDE) | Step-by-step guide to deploying web projects | Markdown, Cloudflare |
-| [marc](https://github.com/rankochandamem/marc) | Experimental project | JavaScript |
+## > ls -la ~/projects
 
-
-<details>
-<summary><b>Project details</b> (click to expand)</summary>
-
-<br/>
-
-**reactquest**
-Purpose: make learning React feel like playing a game.
-Status: in active development.
-Highlights: lessons, challenges, quizzes, progression system.
-
-**MediaDrop**
-Purpose: simple, quick media handling from the browser.
-Status: working, open to improvements.
-
-**Video-DL**
-Purpose: lightweight video download utility.
-Status: working, open to improvements.
-
-**DEVDEPLOYGUIDE**
-Purpose: a clear reference for taking a project from local to live.
-Status: documentation, updated as I learn.
-
-**marc**
-Purpose: experimental playground.
-Status: exploring ideas.
-
-</details>
+```text
+drwxr-xr-x  reactquest        gamified React learning platform         [React, Vite]
+drwxr-xr-x  MediaDrop         media download and handling tool         [JavaScript]
+drwxr-xr-x  Video-DL          video downloader utility                 [JavaScript]
+drwxr-xr-x  DEVDEPLOYGUIDE    step-by-step guide to deploying web      [Markdown]
+drwxr-xr-x  marc              experimental playground                  [JavaScript]
+```
 
 <div align="center">
 
-<br/>
+<a href="https://github.com/rankochandamem/reactquest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rankochandamem&repo=reactquest&bg_color=000000&title_color=00ff41&text_color=b8ffcb&icon_color=00ff41&border_color=0f5a1f" width="48%" alt="reactquest repo card"/></a>
+<a href="https://github.com/rankochandamem/MediaDrop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rankochandamem&repo=MediaDrop&bg_color=000000&title_color=00ff41&text_color=b8ffcb&icon_color=00ff41&border_color=0f5a1f" width="48%" alt="MediaDrop repo card"/></a>
 
-<a href="https://github.com/rankochandamem/reactquest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rankochandamem&repo=reactquest&theme=github_dark&hide_border=true" width="48%" alt="reactquest repo card"/></a>
-<a href="https://github.com/rankochandamem/MediaDrop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rankochandamem&repo=MediaDrop&theme=github_dark&hide_border=true" width="48%" alt="MediaDrop repo card"/></a>
+<a href="https://github.com/rankochandamem/Video-DL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rankochandamem&repo=Video-DL&bg_color=000000&title_color=00ff41&text_color=b8ffcb&icon_color=00ff41&border_color=0f5a1f" width="48%" alt="Video-DL repo card"/></a>
+<a href="https://github.com/rankochandamem/DEVDEPLOYGUIDE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rankochandamem&repo=DEVDEPLOYGUIDE&bg_color=000000&title_color=00ff41&text_color=b8ffcb&icon_color=00ff41&border_color=0f5a1f" width="48%" alt="DEVDEPLOYGUIDE repo card"/></a>
 
-<a href="https://github.com/rankochandamem/Video-DL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rankochandamem&repo=Video-DL&theme=github_dark&hide_border=true" width="48%" alt="Video-DL repo card"/></a>
-<a href="https://github.com/rankochandamem/DEVDEPLOYGUIDE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rankochandamem&repo=DEVDEPLOYGUIDE&theme=github_dark&hide_border=true" width="48%" alt="DEVDEPLOYGUIDE repo card"/></a>
-
-<a href="https://github.com/rankochandamem?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="View all repositories"/></a>
+<a href="https://github.com/rankochandamem?tab=repositories"><img src="https://img.shields.io/badge/ACCESS%20ALL%20REPOSITORIES-000000?style=for-the-badge&labelColor=0d1117&color=00ff41&logo=github&logoColor=00ff41" alt="Access all repositories"/></a>
 
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider-hacker.svg" width="100%" alt=""/></div>
 
-## Tech Stack
+## > cat stack.conf
 
-**Languages and markup**
+```ini
+[languages]
+html = true
+css  = true
+js   = true
 
-<img src="https://skillicons.dev/icons?i=html,css,js&perline=10" alt="HTML, CSS, JavaScript" />
+[frameworks]
+react = true
+vite  = true
+node  = true
 
-**Frameworks and build tools**
-
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs&perline=10" alt="React, Vite, Node.js" />
-
-**Workflow and deployment**
-
-<img src="https://skillicons.dev/icons?i=git,github,cloudflare,vscode&perline=10" alt="Git, GitHub, Cloudflare, VS Code" />
-
-<div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider.svg" width="100%" alt=""/></div>
-
-## What I Build
-
-| Web Apps | React | Tools | Offline-first |
-|:---:|:---:|:---:|:---:|
-| Modern, responsive web applications and interfaces | Interactive apps and learning experiences | Developer utilities and productivity experiments | Apps designed to work with limited connectivity |
-
-<div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider.svg" width="100%" alt=""/></div>
-
-## How I Work
+[workflow]
+git        = true
+github     = true
+cloudflare = true
+vscode     = true
+```
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/workflow.svg" width="820" alt="Workflow: idea, build, ship, improve, repeat"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,git,github,cloudflare,vscode&perline=10&theme=dark" alt="Tech stack icons" />
 
 </div>
 
-| Stage | What happens |
+<div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider-hacker.svg" width="100%" alt=""/></div>
+
+## > ./workflow --loop
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/workflow-hacker.svg" width="820" alt="Workflow loop: idea, build, ship, improve"/>
+
+</div>
+
+| Stage | Action |
 |:--|:--|
 | **Idea** | Spot a problem or a gap, write it down, keep the scope small |
 | **Build** | Make the smallest working version, with as few dependencies as possible |
 | **Ship** | Deploy early so real feedback arrives sooner |
 | **Improve** | Refine, document, and repeat |
 
-<div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider-hacker.svg" width="100%" alt=""/></div>
 
-## Currently Learning
-
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![PWA](https://img.shields.io/badge/PWA%20%26%20Service%20Workers-0D1117?style=for-the-badge&logo=pwa&logoColor=5A0FC8)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020)
-![Vitest](https://img.shields.io/badge/Testing-0D1117?style=for-the-badge&logo=vitest&logoColor=6E9F18)
-
-
-<div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider.svg" width="100%" alt=""/></div>
-
-## Roadmap
-
-**Now**
-- [x] Build and publish first React projects
-- [x] Launch developer tool experiments
-- [ ] Release the first full version of ReactQuest
-
-**Next**
-- [ ] Add offline support to more projects
-- [ ] Write documentation and a clear README for every repo
-- [ ] Add automated tests to the main projects
-
-**Later**
-- [ ] Contribute to an open-source project
-- [ ] Publish a reusable component or utility package
-- [ ] Share what I learn through write-ups
-
-<div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider.svg" width="100%" alt=""/></div>
-
-## GitHub Stats
+## > ./learning --now
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rankochandamem&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" height="170" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rankochandamem&layout=compact&hide_border=true&theme=github_dark" height="170" alt="Top languages"/>
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00ff41)
+![PWA](https://img.shields.io/badge/PWA%20%26%20SERVICE%20WORKERS-000000?style=for-the-badge&logo=pwa&logoColor=00ff41)
+![Cloudflare Workers](https://img.shields.io/badge/CLOUDFLARE%20WORKERS-000000?style=for-the-badge&logo=cloudflare&logoColor=00ff41)
+![Testing](https://img.shields.io/badge/TESTING-000000?style=for-the-badge&logo=vitest&logoColor=00ff41)
 
-<img src="https://streak-stats.demolab.com?user=rankochandamem&theme=github-dark-blue&hide_border=true" alt="Contribution streak" />
+</div>
 
-<img src="https://ghchart.rshah.org/238636/rankochandamem" width="90%" alt="Contribution calendar" />
+<div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider-hacker.svg" width="100%" alt=""/></div>
+
+## > cat roadmap.md
+
+```text
+NOW
+  [x] build and publish first React projects
+  [x] launch developer tool experiments
+  [ ] release the first full version of ReactQuest
+
+NEXT
+  [ ] add offline support to more projects
+  [ ] write a clear README for every repo
+  [ ] add automated tests to the main projects
+
+LATER
+  [ ] contribute to an open-source project
+  [ ] publish a reusable component or utility package
+  [ ] share what I learn through write-ups
+```
+
+<div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider-hacker.svg" width="100%" alt=""/></div>
+
+## > ./stats --verbose
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rankochandamem&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00ff41&text_color=b8ffcb&icon_color=00ff41&border_color=0f5a1f" height="170" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rankochandamem&layout=compact&bg_color=000000&title_color=00ff41&text_color=b8ffcb&border_color=0f5a1f" height="170" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=rankochandamem&background=000000&border=0F5A1F&stroke=0F5A1F&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=00FF41&dates=6EE787" alt="Contribution streak" />
+
+<img src="https://ghchart.rshah.org/00ff41/rankochandamem" width="90%" alt="Contribution calendar" />
 
 <br/><br/>
 
@@ -242,35 +226,33 @@ Status: exploring ideas.
 
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider-hacker.svg" width="100%" alt=""/></div>
 
-## Let's Collaborate
+## > ./collaborate
 
-I'm happy to hear from you if you want to:
+```text
+OPEN TO
+  - feedback on ReactQuest or any of my tools
+  - feature suggestions and bug reports (open an issue on the repo)
+  - building something together or reviewing each other's code
+  - resources for learning React and web performance
+```
 
-- Give feedback on ReactQuest or any of my tools
-- Suggest a feature or report a bug (open an issue on the repo)
-- Build something together or review each other's code
-- Share resources for learning React and web performance
-
-## Connect
+## > ssh connect
 
 <div align="center">
 
-<a href="https://github.com/rankochandamem"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/></a>
-<a href="https://github.com/rankochandamem?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Repositories"/></a>
+<a href="https://github.com/rankochandamem"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&labelColor=0d1117&color=00ff41&logo=github&logoColor=00ff41" alt="GitHub"/></a>
+<a href="https://github.com/rankochandamem?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-000000?style=for-the-badge&labelColor=0d1117&color=00ff41&logo=github&logoColor=00ff41" alt="Repositories"/></a>
 <!-- Add more links if you like:
-<a href="https://your-site.com"><img src="https://img.shields.io/badge/WEBSITE-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Website"/></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+<a href="https://your-site.com"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&labelColor=0d1117&color=00ff41&logo=cloudflare&logoColor=00ff41" alt="Website"/></a>
+<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&labelColor=0d1117&color=00ff41&logo=gmail&logoColor=00ff41" alt="Email"/></a>
 -->
 
 <br/><br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&width=520&lines=connection+established.;keep+building.+keep+shipping.;%3E+logout" alt="Closing lines" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1500&color=3FB950&center=true&vCenter=true&width=500&lines=Keep+building.;Keep+shipping.;Keep+learning." alt="Keep building" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161b22,100:0d1117&height=110&section=footer&animation=fadeIn" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:0a2e12,100:000000&height=110&section=footer&animation=fadeIn" width="100%" alt=""/>
 
 </div>

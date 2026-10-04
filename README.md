@@ -266,7 +266,6 @@ I'm happy to hear from you if you want to:
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=rankochandamem&style=flat-square&color=161b22&label=PROFILE+VIEWS" alt="Profile views" />
 
 <br/>
 

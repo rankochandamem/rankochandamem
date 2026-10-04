@@ -16,11 +16,11 @@
 
 <br/><br/>
 
-<img src="./assets/terminal.svg" width="720" alt="Animated terminal introducing rankochandamem"/>
+<img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/terminal.svg" width="720" alt="Animated terminal introducing rankochandamem"/>
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider.svg" width="100%" alt=""/></div>
 
 ## About Me
 
@@ -48,7 +48,7 @@ I care about software that is **fast to load, simple to use, and still useful wh
 
 </details>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider.svg" width="100%" alt=""/></div>
 
 ## Currently Building
 
@@ -95,7 +95,7 @@ A growing set of utilities and experiments that remove small frustrations from t
 </tr>
 </table>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider.svg" width="100%" alt=""/></div>
 
 ## Projects
 
@@ -107,7 +107,6 @@ A growing set of utilities and experiments that remove small frustrations from t
 | [DEVDEPLOYGUIDE](https://github.com/rankochandamem/DEVDEPLOYGUIDE) | Step-by-step guide to deploying web projects | Markdown, Cloudflare |
 | [marc](https://github.com/rankochandamem/marc) | Experimental project | JavaScript |
 
-<sub>Edit the descriptions above so they match what each repo really does.</sub>
 
 <details>
 <summary><b>Project details</b> (click to expand)</summary>
@@ -151,7 +150,7 @@ Status: exploring ideas.
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider.svg" width="100%" alt=""/></div>
 
 ## Tech Stack
 
@@ -167,7 +166,7 @@ Status: exploring ideas.
 
 <img src="https://skillicons.dev/icons?i=git,github,cloudflare,vscode&perline=10" alt="Git, GitHub, Cloudflare, VS Code" />
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider.svg" width="100%" alt=""/></div>
 
 ## What I Build
 
@@ -175,13 +174,13 @@ Status: exploring ideas.
 |:---:|:---:|:---:|:---:|
 | Modern, responsive web applications and interfaces | Interactive apps and learning experiences | Developer utilities and productivity experiments | Apps designed to work with limited connectivity |
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider.svg" width="100%" alt=""/></div>
 
 ## How I Work
 
 <div align="center">
 
-<img src="./assets/workflow.svg" width="820" alt="Workflow: idea, build, ship, improve, repeat"/>
+<img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/workflow.svg" width="820" alt="Workflow: idea, build, ship, improve, repeat"/>
 
 </div>
 
@@ -192,7 +191,7 @@ Status: exploring ideas.
 | **Ship** | Deploy early so real feedback arrives sooner |
 | **Improve** | Refine, document, and repeat |
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider.svg" width="100%" alt=""/></div>
 
 ## Currently Learning
 
@@ -201,9 +200,8 @@ Status: exploring ideas.
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020)
 ![Vitest](https://img.shields.io/badge/Testing-0D1117?style=for-the-badge&logo=vitest&logoColor=6E9F18)
 
-<sub>Swap these for whatever you are really learning.</sub>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider.svg" width="100%" alt=""/></div>
 
 ## Roadmap
 
@@ -222,7 +220,7 @@ Status: exploring ideas.
 - [ ] Publish a reusable component or utility package
 - [ ] Share what I learn through write-ups
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider.svg" width="100%" alt=""/></div>
 
 ## GitHub Stats
 
@@ -244,7 +242,7 @@ Status: exploring ideas.
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider.svg" width="100%" alt=""/></div>
 
 ## Let's Collaborate
 

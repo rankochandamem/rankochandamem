@@ -1,7 +1,85 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <title>Page Title</title>
-    </head>
-      <a href="https://youtu.be/i_v9HfipThU"><button>click</button></a>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>YouTube Video</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: Arial, sans-serif;
+            background: #0d1117;
+            color: white;
+        }
+
+        .container {
+            text-align: center;
+            padding: 40px;
+        }
+
+        h1 {
+            margin-bottom: 10px;
+            font-size: 36px;
+        }
+
+        p {
+            color: #8b949e;
+            margin-bottom: 30px;
+        }
+
+        .youtube-button {
+            display: inline-block;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 8px;
+            background: #ff0000;
+            color: white;
+            font-size: 16px;
+            font-weight: bold;
+            text-decoration: none;
+            cursor: pointer;
+            transition: 0.25s ease;
+        }
+
+        .youtube-button:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 30px rgba(255, 0, 0, 0.3);
+        }
+
+        .youtube-button:active {
+            transform: translateY(0);
+        }
+    </style>
+</head>
+
+<body>
+
+    <main class="container">
+
+        <h1>Watch the Video</h1>
+
+        <p>Click the button below to open the YouTube video.</p>
+
+        <a
+            href="https://youtu.be/i_v9HfipThU"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="youtube-button"
+        >
+            Watch on YouTube
+        </a>
+
+    </main>
+
+</body>
 </html>

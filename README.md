@@ -6,6 +6,10 @@
 
 <br/>
 
+<sub>I build fast, lightweight web apps and developer tools that still work on a bad connection.</sub>
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/ACCESS-GRANTED-000000?style=for-the-badge&labelColor=0d1117&color=00ff41&logo=gnubash&logoColor=00ff41" alt="Access granted"/>
 <img src="https://img.shields.io/badge/STACK-REACT%20%2F%20VITE-000000?style=for-the-badge&labelColor=0d1117&color=00ff41&logo=react&logoColor=00ff41" alt="Stack: React and Vite"/>
 <img src="https://img.shields.io/badge/STATUS-BUILDING-000000?style=for-the-badge&labelColor=0d1117&color=00ff41&logo=vite&logoColor=00ff41" alt="Status: building"/>
@@ -25,6 +29,7 @@
 USER        rankochandamem
 ROLE        developer / builder / creator
 LOCATION    the terminal
+FOCUS       ReactQuest, a gamified React learning platform
 MISSION     ship small, useful software and learn from every build
 PHILOSOPHY  fast to load, simple to use, useful on a bad connection
 ```
@@ -87,8 +92,8 @@ Utilities and experiments that remove small frustrations from the daily developm
 [x] small, single-purpose tools
 [x] fast to open, easy to understand
 [x] built on standard Web APIs
-[ ] deployed on Cloudflare for speed
-[ ] open source so others can adapt them
+[x] deployed on Cloudflare for speed
+[x] open source so others can adapt them
 ```
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00ff41)
@@ -99,8 +104,6 @@ Utilities and experiments that remove small frustrations from the daily developm
 </tr>
 </table>
 
-<sub>Tick the boxes to match your real progress.</sub>
-
 <div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider-hacker.svg" width="100%" alt=""/></div>
 
 ## > ls -la ~/projects
@@ -109,17 +112,17 @@ Utilities and experiments that remove small frustrations from the daily developm
 drwxr-xr-x  reactquest        gamified React learning platform         [React, Vite]
 drwxr-xr-x  MediaDrop         media download and handling tool         [JavaScript]
 drwxr-xr-x  Video-DL          video downloader utility                 [JavaScript]
-drwxr-xr-x  DEVDEPLOYGUIDE    step-by-step guide to deploying web      [Markdown]
+drwxr-xr-x  DEVDEPLOYGUIDE    step-by-step guide to deploying web      [Markdown, Cloudflare]
 drwxr-xr-x  marc              experimental playground                  [JavaScript]
 ```
 
 <div align="center">
 
-<a href="https://github.com/rankochandamem/reactquest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rankochandamem&repo=reactquest&bg_color=000000&title_color=00ff41&text_color=b8ffcb&icon_color=00ff41&border_color=0f5a1f" width="48%" alt="reactquest repo card"/></a>
-<a href="https://github.com/rankochandamem/MediaDrop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rankochandamem&repo=MediaDrop&bg_color=000000&title_color=00ff41&text_color=b8ffcb&icon_color=00ff41&border_color=0f5a1f" width="48%" alt="MediaDrop repo card"/></a>
+<a href="https://github.com/rankochandamem/reactquest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rankochandamem&repo=reactquest&bg_color=000000&title_color=00ff41&text_color=b8ffcb&icon_color=00ff41&border_color=0f5a1f" width="48%" alt="reactquest repo card on GitHub"/></a>
+<a href="https://github.com/rankochandamem/MediaDrop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rankochandamem&repo=MediaDrop&bg_color=000000&title_color=00ff41&text_color=b8ffcb&icon_color=00ff41&border_color=0f5a1f" width="48%" alt="MediaDrop repo card on GitHub"/></a>
 
-<a href="https://github.com/rankochandamem/Video-DL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rankochandamem&repo=Video-DL&bg_color=000000&title_color=00ff41&text_color=b8ffcb&icon_color=00ff41&border_color=0f5a1f" width="48%" alt="Video-DL repo card"/></a>
-<a href="https://github.com/rankochandamem/DEVDEPLOYGUIDE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rankochandamem&repo=DEVDEPLOYGUIDE&bg_color=000000&title_color=00ff41&text_color=b8ffcb&icon_color=00ff41&border_color=0f5a1f" width="48%" alt="DEVDEPLOYGUIDE repo card"/></a>
+<a href="https://github.com/rankochandamem/Video-DL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rankochandamem&repo=Video-DL&bg_color=000000&title_color=00ff41&text_color=b8ffcb&icon_color=00ff41&border_color=0f5a1f" width="48%" alt="Video-DL repo card on GitHub"/></a>
+<a href="https://github.com/rankochandamem/DEVDEPLOYGUIDE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rankochandamem&repo=DEVDEPLOYGUIDE&bg_color=000000&title_color=00ff41&text_color=b8ffcb&icon_color=00ff41&border_color=0f5a1f" width="48%" alt="DEVDEPLOYGUIDE repo card on GitHub"/></a>
 
 <a href="https://github.com/rankochandamem?tab=repositories"><img src="https://img.shields.io/badge/ACCESS%20ALL%20REPOSITORIES-000000?style=for-the-badge&labelColor=0d1117&color=00ff41&logo=github&logoColor=00ff41" alt="Access all repositories"/></a>
 
@@ -129,29 +132,17 @@ drwxr-xr-x  marc              experimental playground                  [JavaScri
 
 ## > cat stack.conf
 
-```ini
-[languages]
-html = true
-css  = true
-js   = true
-
-[frameworks]
-react = true
-vite  = true
-node  = true
-
-[workflow]
-git        = true
-github     = true
-cloudflare = true
-vscode     = true
-```
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,git,github,cloudflare,vscode&perline=10&theme=dark" alt="Tech stack icons" />
 
 </div>
+
+```ini
+languages  = html, css, js
+frameworks = react, vite, node
+workflow   = git, github, cloudflare, vscode
+```
 
 <div align="center"><img src="https://raw.githubusercontent.com/rankochandamem/rankochandamem/main/assets/divider-hacker.svg" width="100%" alt=""/></div>
 
